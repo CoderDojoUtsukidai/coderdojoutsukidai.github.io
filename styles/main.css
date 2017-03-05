@@ -13,7 +13,7 @@
 
 .header::after {
     content: "";
-    background: url(../images/penguin-banner.jpg) 0 0 no-repeat;
+    background: url(../images/penguin-banner.jpg) center top no-repeat;
     opacity: 0.3;
     top: 0;
     left: 0;
