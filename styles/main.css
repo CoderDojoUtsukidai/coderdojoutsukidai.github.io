@@ -75,6 +75,10 @@
     font-size: 1.1em;
 }
 
+.small {
+    font-size: 0.8em;
+}
+
 tr.past > td {
     color: #ccc;
 }
